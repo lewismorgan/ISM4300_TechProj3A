@@ -38,7 +38,7 @@ namespace TechProject3A
             }
         }
 
-        static void printName(string name)
+        private static void printName(string name)
         {
             string output = name;
 
